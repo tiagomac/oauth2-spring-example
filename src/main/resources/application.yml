@@ -1,0 +1,4 @@
+security:
+  oauth2:
+    client:
+      scope: password      client-id: appclientid      client-secret: cantthinkabettersecretforthisapplication
